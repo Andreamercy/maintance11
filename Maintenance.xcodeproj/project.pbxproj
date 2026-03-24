@@ -6,25 +6,6 @@
 	objectVersion = 77;
 	objects = {
 
-/* Begin PBXBuildFile section */
-		770686482F725CF100DF099D /* StaticData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 770686462F725CF100DF099D /* StaticData.swift */; };
-		770686492F725CF100DF099D /* MaintenanceTaskDetailViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 770686372F725CF100DF099D /* MaintenanceTaskDetailViewModel.swift */; };
-		7706864A2F725CF100DF099D /* MaintenanceApplicationSubmittedView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7706863A2F725CF100DF099D /* MaintenanceApplicationSubmittedView.swift */; };
-		7706864B2F725CF100DF099D /* VINScannerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 770686422F725CF100DF099D /* VINScannerView.swift */; };
-		7706864C2F725CF100DF099D /* SparePartsRequestSheet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 770686412F725CF100DF099D /* SparePartsRequestSheet.swift */; };
-		7706864D2F725CF100DF099D /* MaintenanceDashboardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7706863B2F725CF100DF099D /* MaintenanceDashboardView.swift */; };
-		7706864E2F725CF100DF099D /* MaintenanceProfilePage2View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7706863E2F725CF100DF099D /* MaintenanceProfilePage2View.swift */; };
-		7706864F2F725CF100DF099D /* MaintenanceAppTheme.swift in Sources */ = {isa = PBXBuildFile; fileRef = 770686442F725CF100DF099D /* MaintenanceAppTheme.swift */; };
-		770686502F725CF100DF099D /* MaintenanceDashboardViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 770686352F725CF100DF099D /* MaintenanceDashboardViewModel.swift */; };
-		770686512F725CF100DF099D /* MaintenanceProfilePage1View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7706863D2F725CF100DF099D /* MaintenanceProfilePage1View.swift */; };
-		770686522F725CF100DF099D /* MaintenanceProfileEditView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7706863C2F725CF100DF099D /* MaintenanceProfileEditView.swift */; };
-		770686532F725CF100DF099D /* MaintenanceTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 770686452F725CF100DF099D /* MaintenanceTabView.swift */; };
-		770686542F725CF100DF099D /* CameraPreviewView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 770686392F725CF100DF099D /* CameraPreviewView.swift */; };
-		770686552F725CF100DF099D /* MaintenanceProfileViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 770686362F725CF100DF099D /* MaintenanceProfileViewModel.swift */; };
-		770686562F725CF100DF099D /* MaintenanceTaskDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 770686402F725CF100DF099D /* MaintenanceTaskDetailView.swift */; };
-		770686572F725CF100DF099D /* MaintenanceProfileSetupView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7706863F2F725CF100DF099D /* MaintenanceProfileSetupView.swift */; };
-/* End PBXBuildFile section */
-
 /* Begin PBXContainerItemProxy section */
 		77FB28482F71A19100CAF859 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -43,22 +24,6 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		770686352F725CF100DF099D /* MaintenanceDashboardViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaintenanceDashboardViewModel.swift; sourceTree = "<group>"; };
-		770686362F725CF100DF099D /* MaintenanceProfileViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaintenanceProfileViewModel.swift; sourceTree = "<group>"; };
-		770686372F725CF100DF099D /* MaintenanceTaskDetailViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaintenanceTaskDetailViewModel.swift; sourceTree = "<group>"; };
-		770686392F725CF100DF099D /* CameraPreviewView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraPreviewView.swift; sourceTree = "<group>"; };
-		7706863A2F725CF100DF099D /* MaintenanceApplicationSubmittedView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaintenanceApplicationSubmittedView.swift; sourceTree = "<group>"; };
-		7706863B2F725CF100DF099D /* MaintenanceDashboardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaintenanceDashboardView.swift; sourceTree = "<group>"; };
-		7706863C2F725CF100DF099D /* MaintenanceProfileEditView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaintenanceProfileEditView.swift; sourceTree = "<group>"; };
-		7706863D2F725CF100DF099D /* MaintenanceProfilePage1View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaintenanceProfilePage1View.swift; sourceTree = "<group>"; };
-		7706863E2F725CF100DF099D /* MaintenanceProfilePage2View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaintenanceProfilePage2View.swift; sourceTree = "<group>"; };
-		7706863F2F725CF100DF099D /* MaintenanceProfileSetupView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaintenanceProfileSetupView.swift; sourceTree = "<group>"; };
-		770686402F725CF100DF099D /* MaintenanceTaskDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaintenanceTaskDetailView.swift; sourceTree = "<group>"; };
-		770686412F725CF100DF099D /* SparePartsRequestSheet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SparePartsRequestSheet.swift; sourceTree = "<group>"; };
-		770686422F725CF100DF099D /* VINScannerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VINScannerView.swift; sourceTree = "<group>"; };
-		770686442F725CF100DF099D /* MaintenanceAppTheme.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaintenanceAppTheme.swift; sourceTree = "<group>"; };
-		770686452F725CF100DF099D /* MaintenanceTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaintenanceTabView.swift; sourceTree = "<group>"; };
-		770686462F725CF100DF099D /* StaticData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StaticData.swift; sourceTree = "<group>"; };
 		77FB283A2F71A18F00CAF859 /* maintance.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = maintance.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		77FB28472F71A19100CAF859 /* maintanceTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = maintanceTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		77FB28512F71A19100CAF859 /* maintanceUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = maintanceUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -102,49 +67,9 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		770686382F725CF100DF099D /* ViewModels */ = {
-			isa = PBXGroup;
-			children = (
-				770686352F725CF100DF099D /* MaintenanceDashboardViewModel.swift */,
-				770686362F725CF100DF099D /* MaintenanceProfileViewModel.swift */,
-				770686372F725CF100DF099D /* MaintenanceTaskDetailViewModel.swift */,
-			);
-			path = ViewModels;
-			sourceTree = "<group>";
-		};
-		770686432F725CF100DF099D /* Views */ = {
-			isa = PBXGroup;
-			children = (
-				770686392F725CF100DF099D /* CameraPreviewView.swift */,
-				7706863A2F725CF100DF099D /* MaintenanceApplicationSubmittedView.swift */,
-				7706863B2F725CF100DF099D /* MaintenanceDashboardView.swift */,
-				7706863C2F725CF100DF099D /* MaintenanceProfileEditView.swift */,
-				7706863D2F725CF100DF099D /* MaintenanceProfilePage1View.swift */,
-				7706863E2F725CF100DF099D /* MaintenanceProfilePage2View.swift */,
-				7706863F2F725CF100DF099D /* MaintenanceProfileSetupView.swift */,
-				770686402F725CF100DF099D /* MaintenanceTaskDetailView.swift */,
-				770686412F725CF100DF099D /* SparePartsRequestSheet.swift */,
-				770686422F725CF100DF099D /* VINScannerView.swift */,
-			);
-			path = Views;
-			sourceTree = "<group>";
-		};
-		770686472F725CF100DF099D /* Maintenance 2 */ = {
-			isa = PBXGroup;
-			children = (
-				770686382F725CF100DF099D /* ViewModels */,
-				770686432F725CF100DF099D /* Views */,
-				770686442F725CF100DF099D /* MaintenanceAppTheme.swift */,
-				770686452F725CF100DF099D /* MaintenanceTabView.swift */,
-				770686462F725CF100DF099D /* StaticData.swift */,
-			);
-			path = "Maintenance 2";
-			sourceTree = "<group>";
-		};
 		77FB28312F71A18F00CAF859 = {
 			isa = PBXGroup;
 			children = (
-				770686472F725CF100DF099D /* Maintenance 2 */,
 				77FB284A2F71A19100CAF859 /* maintanceTests */,
 				77FB28542F71A19100CAF859 /* maintanceUITests */,
 				77FB283B2F71A18F00CAF859 /* Products */,
@@ -309,22 +234,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				770686482F725CF100DF099D /* StaticData.swift in Sources */,
-				770686492F725CF100DF099D /* MaintenanceTaskDetailViewModel.swift in Sources */,
-				7706864A2F725CF100DF099D /* MaintenanceApplicationSubmittedView.swift in Sources */,
-				7706864B2F725CF100DF099D /* VINScannerView.swift in Sources */,
-				7706864C2F725CF100DF099D /* SparePartsRequestSheet.swift in Sources */,
-				7706864D2F725CF100DF099D /* MaintenanceDashboardView.swift in Sources */,
-				7706864E2F725CF100DF099D /* MaintenanceProfilePage2View.swift in Sources */,
-				7706864F2F725CF100DF099D /* MaintenanceAppTheme.swift in Sources */,
-				770686502F725CF100DF099D /* MaintenanceDashboardViewModel.swift in Sources */,
-				770686512F725CF100DF099D /* MaintenanceProfilePage1View.swift in Sources */,
-				770686522F725CF100DF099D /* MaintenanceProfileEditView.swift in Sources */,
-				770686532F725CF100DF099D /* MaintenanceTabView.swift in Sources */,
-				770686542F725CF100DF099D /* CameraPreviewView.swift in Sources */,
-				770686552F725CF100DF099D /* MaintenanceProfileViewModel.swift in Sources */,
-				770686562F725CF100DF099D /* MaintenanceTaskDetailView.swift in Sources */,
-				770686572F725CF100DF099D /* MaintenanceProfileSetupView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
